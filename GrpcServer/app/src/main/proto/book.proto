@@ -1,7 +1,7 @@
 syntax = "proto3";
 package com.example.grpcserver;
 
-option java_package = "com.example.grpc";
+option java_package = "com.example.grpcserver";
 option java_multiple_files = true;
 
 message Book{
